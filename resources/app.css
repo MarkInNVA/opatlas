@@ -1,0 +1,35 @@
+.scalebar_bottom-right {
+/*	position: absolute;
+    bottom: 25px;	*/
+    right: 150px;
+}
+
+/*.scalebar_bottom-left {
+    bottom: 25px;
+    left: 25px;
+}
+*/
+
+.scalebar_top-right {
+    right: 150px;
+/*    top: 10px;	*/
+}
+
+/*
+.scalebar_center-right {
+    right: 150px;
+    top: 10px;	
+}
+*/
+
+.x-toolbar-default {
+	background-color: #CECECE;
+}
+
+/*.esriScalebar{padding: 20px 20px;}*/
+
+
+/*.x-column-header {
+	background-color: #CECECE;
+}
+*/
